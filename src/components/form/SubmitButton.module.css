@@ -1,0 +1,23 @@
+
+
+.btn button {
+    display: block;
+    position: relative;
+    margin: 0rem auto  auto;
+    padding: .2rem ;
+    font-size: 1rem;
+    color: #eee;
+    border: 0;
+    background-color: black;
+    transition: 0.9s;
+    cursor: pointer;
+}
+
+.btn p {
+    color: white;
+}
+
+.btn button :hover{
+    background-color: #222;
+    color: #FFBB33;
+}
