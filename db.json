@@ -7,14 +7,8 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 240,
+      "cost": 120,
       "services": [
-        {
-          "name": "Livros",
-          "cost": "120",
-          "descricao": "Compra de livros",
-          "id": "201fd96d-80de-4d77-b38b-bd48776e1cf0"
-        },
         {
           "name": "Livros",
           "cost": "120",
@@ -42,21 +36,8 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 1755,
-      "services": [
-        {
-          "name": "caca",
-          "cost": "1212",
-          "descricao": "caca",
-          "id": "862c2a59-0e8b-47c6-8779-dc5e71adfa09"
-        },
-        {
-          "name": "Cimento",
-          "cost": "123",
-          "descricao": "compra do cimento",
-          "id": "5dea9e47-be76-4c87-b1eb-827ec8db7285"
-        }
-      ],
+      "cost": 0,
+      "services": [],
       "id": 3
     },
     {
